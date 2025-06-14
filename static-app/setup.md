@@ -1,7 +1,11 @@
- Step 1: On the console search for s3 
- Step 2: click on create bucket 
- Step 3: Give a globally unique name to bucket
- Step 4: Block Public Access Settings
+ Step 1: On the console search for s3  
+ 
+ Step 2: click on create bucket.  
+ 
+ Step 3: Give a globally unique name to bucket.  
+ 
+ Step 4: Block Public Access Settings.  
+ 
 For private usage (e.g., website files used internally or with CloudFront):
 
 ✅ Keep all options checked (recommended for security)

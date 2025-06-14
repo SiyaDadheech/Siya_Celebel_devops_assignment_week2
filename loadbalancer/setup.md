@@ -32,6 +32,8 @@ Set:
 Name: task-2
 
 Scheme: Internet-facing
+for external load balancer i have used the Internet-facing.
+for internal load balancer: select the Scheme to Internal and select the private subnet only.
 
 IP type: IPv4
 

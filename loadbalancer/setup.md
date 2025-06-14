@@ -68,4 +68,6 @@ Go to EC2 → Load Balancers
 Copy the DNS name (e.g., tast-2-601934651.ap-south-1.elb.amazonaws.com/)
 
 Open in browser:
-http://tast-2-601934651.ap-south-1.elb.amazonaws.com/
+http://tast-2-601934651.ap-south-1.elb.amazonaws.com/  
+
+currently i have terminate my instance so you cann't access the alb using the above link.
